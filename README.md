@@ -1,4 +1,4 @@
-# Kirubel Hbate
+# Kirubel Habte
 
 **`Fullstack Developer`**
 
