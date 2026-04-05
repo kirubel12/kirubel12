@@ -40,12 +40,6 @@
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
-**Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-</p>
-
 **Design & Collaboration**
 <p>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
